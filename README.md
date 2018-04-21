@@ -1,2 +1,4 @@
-# invie-github
-tus mejores guitarras invie-sibles by @platzy
+# invie
+Las guitarras más locas
+
+http://irmajulia.github.io/invie-github/
